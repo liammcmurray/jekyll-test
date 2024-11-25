@@ -7,7 +7,7 @@ categories: portfolio
 <h2>Context</h2>
 <p>The university had 15.000+ pages online which had been added, updated and designed as and when needed. I counted at least 4 clearly different 'strata' of design styles for the main site, and each department had adopted their own visual ideology. I was responsible for delivering a complete, cohesive redesign of the website, and the accompanying printed undergraduate prospectus.</p>
 
-![image tooltip here](/images/bath1.png)
+![image tooltip here](/jekyll-test/images/bath1.png)
 
 <h2>Key responsibilities:</h2>
 <ul>
