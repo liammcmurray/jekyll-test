@@ -17,11 +17,9 @@ By taking a user-centred approach, I ensured the new product was meeting user ne
 
 In addition, using my experience of building teams and culture, I set up communities of interest around Policy, Internal Systems, and Mentoring. It was my first experience of leading a small group of early career designers within the Probation workstream. SOmething I want to develop further in my next contract role.
 
-![image tooltip here](/images/moj1.png)
+![image tooltip here](/jekyll-test/images/moj1.png)
 
-![image tooltip here](/images/moj2.png)
-
-<img src='{{ site.baseurl }}/images/bath1png' />
+![image tooltip here](/jekyll-test/images/moj2.png)
 
 ### Key achievements
 - Greatly simplified the information presented to a Probation Officer to reduce their congitive burden
@@ -29,4 +27,4 @@ In addition, using my experience of building teams and culture, I set up communi
 - Wrote and published a <a href="https://manage-a-workforce-design-history.apps.live.cloud-platform.service.justice.gov.uk/">Design History</a> - first one in MoJ!
 - Used **ChatGPT** to generate a list of realistic cases for allocation
 
-![image tooltip here](/images/moj3.png)
+![image tooltip here](/jekyll-test/images/moj3.png)
