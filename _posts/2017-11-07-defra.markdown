@@ -7,7 +7,7 @@ categories: portfolio
 <h2>Context</h2>
 <p>EU legislation meant that all animal movements needed to be tracked and traceable. Defra’s existing IT was not able to cope with requirements, and there was a very low uptake in using the services. I was the UX and service design specialist in a multidisciplinary team.</p>
 
-![image tooltip here](/images/defra1.png)
+![image tooltip here](/jekyll-test/images/defra1.png)
 
 <h3>Key responsibilities</h3>
 <ul>
@@ -23,4 +23,4 @@ categories: portfolio
     <li>Work alongside user researchers to ideate solutions based on feedback from user workshops.</li>
 </ul>
 
-![image tooltip here](/images/defra.png)
+![image tooltip here](/jekyll-test/images/defra.png)
