@@ -21,6 +21,7 @@ In addition, using my experience of building teams and culture, I set up communi
 
 ![image tooltip here](/images/moj2.png)
 
+<img src='{{ site.baseurl }}/images/bath1png' />
 
 ### Key achievements
 - Greatly simplified the information presented to a Probation Officer to reduce their congitive burden
